@@ -1,0 +1,172 @@
+/* Here goes your CSS */
+body {
+  background-color: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  color: #7E7E7E;
+}
+
+.fa.fa-heart{ color:#C22F2F; }
+
+#title {
+  font-family: 'Montserrat', sans-serif;
+  color: #0070BA;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: -12px;
+}
+
+#btn
+{
+ background-color:#0070BA;
+ color: white;
+ padding: 5px 15px;
+ text-decoration: none;
+ border-radius:4px;
+ font-weight: 400;
+ font-size: 15px;
+ position:relative;
+ top:-3px;
+}
+
+#btn:hover
+{
+  background-color:#0050A1;
+}
+
+h2 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 350;
+  font-size: 22px;
+  color:#7E7E7E;
+  margin-bottom: -6px;
+}
+
+h4 {
+font-family: 'Montserrat', sans-serif;
+  font-weight: 350;
+  font-size: 18px;
+  color:#7E7E7E;
+
+}
+
+
+.high_margin {
+    position:relative;
+    top:-18px;
+    text-align: center
+
+
+  }
+
+h3 {
+  font-weight: 350;
+  font-size: 18px;
+  color:#7E7E7E;
+}
+
+h5 {font-family: 'Montserrat', sans-serif;
+  font-weight: 350;
+  font-size: 22px;
+  color:white;
+  margin-bottom: -6px;
+  margin-top: 13px;
+}
+
+p {font-size: 15px;
+ font-weight: 300;
+ color:#7E7E7E;
+ line-height: 18px
+
+}
+
+.desc {
+ font-size: 15px;
+ font-weight: 300;
+ color:#7E7E7E;
+
+ margin-top: -9px;
+ margin-bottom: 23px;
+}
+
+a {
+  text-decoration: none;
+  color:#7E7E7E;
+}
+
+a:visited {
+    color: lightgrey;
+}
+
+a:hover {
+  color: #0070BA;
+}
+
+
+.container {
+  width: 500px;
+  margin: 15px auto;
+  background-color: white;
+  border-style: solid
+  border-width: 2px;
+  border-color: grey;
+  border-radius: 4px;
+  box-shadow: 2px 2px 3px lightgrey;
+  padding: 15px;
+  display: block;
+}
+
+.footer_container
+{
+  width: 500px;
+  margin: 15px auto;
+  background-color: #0050A1;
+  border-style: solid
+  border-width: 2px;
+  border-color: grey;
+  border-radius: 4px;
+  box-shadow: 2px 2px 3px lightgrey;
+  padding: 15px;
+  display: block;
+  color: white;
+}
+
+.image {
+  width:200px;
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.card {
+ text-align: center;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 30px;
+  padding-right: 80px;
+}
+
+.image_film {
+  width: 150px;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  padding-right: 15px;
+  padding-bottom: 10px;
+
+}
+
+.footbar_style {
+color: white;
+font-weight: 150;
+font-size: 17px;
+margin-bottom: -1px;
+margin-top:0px;
+
+
+}
